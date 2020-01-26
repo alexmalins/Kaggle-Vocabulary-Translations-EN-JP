@@ -6,7 +6,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Binary | 二値 |
 | Binary classification | 二値分類 |
 | Categorical variable | カテゴリ変数 |
-| Classification | 分類 |
+| Classification | 分類 |
 | Confusion matrix | 混同行列 |
 | Cross validation | クロスバリデーション |
 | Derivative | 微分 |

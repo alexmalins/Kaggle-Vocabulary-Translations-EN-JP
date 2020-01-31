@@ -10,6 +10,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Confusion matrix | 混同行列 |
 | Cost function | コスト関数 |
 | Cross validation | クロスバリデーション |
+| Denominator | 分母 |
 | Derivative | 微分 |
 | Dummy variable | ダミー変数 |
 | Ensemble | アンサンブル |
@@ -25,6 +26,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Model building | モデル作成 |
 | Multi-class classification | 多クラス分類 / マルチクラス分類 |
 | Multi-label classification | 多ラベル分類 / マルチラベル分類 |
+| Numerator | 分子 |
 | Numerical variable | 数値変数 |
 | Objective function | 目的関数 |
 | Predicted probability | 予測確率 |
@@ -32,6 +34,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Recommendation | レコメンデーション |
 | Record | レコード |
 | Regression | 回帰 |
+| Residual | 残差 |
 | Target value | 目的変数 / ターゲット |
 | Test data | テストデータ |
 | Threshold | 閾値 |

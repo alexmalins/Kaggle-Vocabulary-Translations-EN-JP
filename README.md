@@ -19,22 +19,28 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Function | 関数 |
 | Gradient | 勾配 |
 | Hyperparameter | ハイパーパラメータ |
+| Logarithmic transformation | 対数変換 |
 | Logistic regression | ロジスティック回帰 |
 | Mean | 平均 |
 | Metric | 評価指標 |
+| Min-max scaling (rescaling) | Min-Maxスケーリング |
 | Missing variable | 欠損値 |
 | Model building | モデル作成 |
 | Multi-class classification | 多クラス分類 / マルチクラス分類 |
 | Multi-label classification | 多ラベル分類 / マルチラベル分類 |
+| Negative value | 正の値 |
 | Numerator | 分子 |
 | Numerical variable | 数値変数 |
 | Objective function | 目的関数 |
+| Positive value | 正の値 |
 | Predicted probability | 予測確率 |
 | Predicted value | 予測値 |
+| Rank transformation | 順位への変換 |
 | Recommendation | レコメンデーション |
 | Record | レコード |
 | Regression | 回帰 |
 | Residual | 残差 |
+| Standardization | 標準化 |
 | Target value | 目的変数 / ターゲット |
 | Test data | テストデータ |
 | Threshold | 閾値 |

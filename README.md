@@ -3,6 +3,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 
 | English | 日本語 |
 |:--- |:--------------------------- |
+| Array | 配列 |
 | Binary | 二値 |
 | Binary classification | 二値分類 |
 | Categorical variable | カテゴリ変数 |
@@ -41,6 +42,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Regression | 回帰 |
 | Residual | 残差 |
 | Standardization | 標準化 |
+| String | 文字列 |
 | Target value | 目的変数 / ターゲット |
 | Test data | テストデータ |
 | Threshold | 閾値 |

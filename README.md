@@ -11,6 +11,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Confusion matrix | 混同行列 |
 | Cost function | コスト関数 |
 | Cross validation | クロスバリデーション |
+| Cumulative | 累積 |
 | Denominator | 分母 |
 | Derivative | 微分 |
 | Dummy variable | ダミー変数 |

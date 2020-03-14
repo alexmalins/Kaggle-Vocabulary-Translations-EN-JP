@@ -8,6 +8,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Binary classification | 二値分類 |
 | Categorical variable | カテゴリ変数 |
 | Classification | 分類 |
+| Clustering | クラスタリング |
 | Confusion matrix | 混同行列 |
 | Cost function | コスト関数 |
 | Cross validation | クロスバリデーション |
@@ -21,8 +22,10 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Function | 関数 |
 | Gradient | 勾配 |
 | Hyperparameter | ハイパーパラメータ |
+| Linear discriminant analysis | 線形判別分析 |
 | Logarithmic transformation | 対数変換 |
 | Logistic regression | ロジスティック回帰 |
+| Matrix | 行列 |
 | Mean | 平均 |
 | Metric | 評価指標 |
 | Min-max scaling (rescaling) | Min-Maxスケーリング |
@@ -30,7 +33,8 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Model building | モデル作成 |
 | Multi-class classification | 多クラス分類 / マルチクラス分類 |
 | Multi-label classification | 多ラベル分類 / マルチラベル分類 |
-| Negative value | 正の値 |
+| Negative value | 負の値 |
+| Non-negative | 非負 |
 | Numerator | 分子 |
 | Numerical variable | 数値変数 |
 | Objective function | 目的関数 |
@@ -53,4 +57,5 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Tuning | チューニング |
 | Validation data | バリデーションデータ |
 | Variable | 変数 |
+| Visualization | 可視化 |
 | Weighted mean | 加重平均 |

@@ -13,9 +13,11 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Cost function | コスト関数 |
 | Cross validation | クロスバリデーション |
 | Cumulative | 累積 |
+| Decision tree | 決定木 |
 | Denominator | 分母 |
 | Derivative | 微分 |
 | Dummy variable | ダミー変数 |
+| Early stopping | アーリーストッピング |
 | Ensemble | アンサンブル |
 | Error rate | 誤答率 |
 | Feature | 特徴量 |

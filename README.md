@@ -43,6 +43,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Positive value | 正の値 |
 | Predicted probability | 予測確率 |
 | Predicted value | 予測値 |
+| Random number | 乱数 |
 | Rank transformation | 順位への変換 |
 | Recommendation | レコメンデーション |
 | Record | レコード |

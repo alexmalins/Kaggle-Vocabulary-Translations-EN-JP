@@ -23,6 +23,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Feature | 特徴量 |
 | Function | 関数 |
 | Gradient | 勾配 |
+| Hold out | ホールドアウト |
 | Hyperparameter | ハイパーパラメータ |
 | Linear discriminant analysis | 線形判別分析 |
 | Logarithmic transformation | 対数変換 |

@@ -3,13 +3,16 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 
 | English | 日本語 |
 |:--- |:--------------------------- |
+| Argument | 引数 |
 | Array | 配列 |
 | Binary | 二値 |
 | Binary classification | 二値分類 |
 | Categorical variable | カテゴリ変数 |
+| Chi-square statistic | カイ二乗統計量 |
 | Classification | 分類 |
 | Clustering | クラスタリング |
 | Confusion matrix | 混同行列 |
+| Correlation coefficient | 相関係数 |
 | Cost function | コスト関数 |
 | Cross validation | クロスバリデーション |
 | Cumulative | 累積 |
@@ -26,6 +29,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Hold out | ホールドアウト |
 | Hyperparameter | ハイパーパラメータ |
 | Linear discriminant analysis | 線形判別分析 |
+| Logarithm | 対数 |
 | Logarithmic transformation | 対数変換 |
 | Logistic regression | ロジスティック回帰 |
 | Matrix | 行列 |
@@ -36,6 +40,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Model building | モデル作成 |
 | Multi-class classification | 多クラス分類 / マルチクラス分類 |
 | Multi-label classification | 多ラベル分類 / マルチラベル分類 |
+| Mutual information | 相互情報量 |
 | Negative value | 負の値 |
 | Non-negative | 非負 |
 | Numerator | 分子 |
@@ -45,6 +50,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Predicted probability | 予測確率 |
 | Predicted value | 予測値 |
 | Random number | 乱数 |
+| Rank correlation coefficient | 順位相関係数 |
 | Rank transformation | 順位への変換 |
 | Recommendation | レコメンデーション |
 | Record | レコード |

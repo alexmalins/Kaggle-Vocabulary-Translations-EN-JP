@@ -28,6 +28,7 @@ Collection of English-Japanese translations of common Kaggle vocabulary
 | Gradient | 勾配 |
 | Hold out | ホールドアウト |
 | Hyperparameter | ハイパーパラメータ |
+| Linear model | 線形 モデル |
 | Linear discriminant analysis | 線形判別分析 |
 | Logarithm | 対数 |
 | Logarithmic transformation | 対数変換 |
